@@ -1,0 +1,13 @@
+{
+"app_bar_title": "GitHub Explorer 🚀",
+"loading_error_message":"Something went wrong during data loading",
+"retry":"Retry",
+"view_button":"View",
+"search_hint": "Search for a repository",
+"search_button": "SEARCH",
+"repository_list_initial": "Start searching for a repository",
+"repository_list_empty": "No repositories found",
+"issues_button": "Issues",
+"pull_requests_button": "Pull Requests",
+"created_by": "Created by"
+}
